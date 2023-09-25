@@ -16,9 +16,7 @@ git clone https://github.com/feelCrazy/react-figma-plugin-starter.git
 cd react-figma-plugin-starter
 
 bun i
-
 or
-
 pnpm i
 ```
 
@@ -30,10 +28,10 @@ or
 pnpm build
 ```
 
-3. Open the [Figma desktop app](https://www.figma.com/downloads/)
+4. Open the [Figma desktop app](https://www.figma.com/downloads/)
 
-4. Go to `Menu > Plugins > Development > New Plugin...`
+5. Go to `Menu > Plugins > Development > New Plugin...`
 
-5. Choose `react-figma-plugin-starter/manifest.json`
+6. Choose `react-figma-plugin-starter/manifest.json`
 
-6. Run the plugin by going to `Menu > Plugins > Development > React-Figma-Plugin-Starter`
+7. Run the plugin by going to `Menu > Plugins > Development > React-Figma-Plugin-Starter`
