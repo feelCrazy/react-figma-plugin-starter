@@ -1,0 +1,12 @@
+{
+  "name": "React-Figma-Plugin-Starter",
+  "id": "react-figma-plugin",
+  "api": "1.0.0",
+  "editorType": ["figma", "figjam"],
+  "permissions": [],
+  "main": "dist/assets/main.js",
+  "ui": "dist/index.html",
+  "networkAccess": {
+    "allowedDomains": ["none"]
+  }
+}
